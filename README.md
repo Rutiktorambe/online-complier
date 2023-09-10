@@ -4,7 +4,7 @@ The Code-X project is a web-based code editor that allows users to write and exe
 
 [🔗Demo](https://online-complier-beta.vercel.app/).  
 
-![Screenshot 2023-09-10 152445](https://github.com/Rutiktorambe/online-complier/assets/114429614/8fe00ce0-db99-47b4-8faa-74fa4ad1c331)
+
 
 ## Features
 
@@ -16,15 +16,15 @@ The Code-X project is a web-based code editor that allows users to write and exe
 ## How to Use
 
 1. Clone this repository to your local machine.
-   git clone https://github.com/YourUsername/Code-X.git
+   `git clone https://github.com/YourUsername/Code-X.git`
 
-2. Open the `index.html` file in a web browser.
+3. Open the `index.html` file in a web browser.
 
-3. You will see a code editor with tabs for HTML, CSS, and JavaScript.
+4. You will see a code editor with tabs for HTML, CSS, and JavaScript.
 
-4. Start writing your code in the respective tabs.
+5. Start writing your code in the respective tabs.
 
-5. Click the "Run" button to see the live result in the iframe.
+6. Click the "Run" button to see the live result in the iframe.
 
 ## Technologies Used
 
@@ -33,3 +33,4 @@ The Code-X project is a web-based code editor that allows users to write and exe
 - CSS
 - JavaScript
 
+![Screenshot 2023-09-10 152445](https://github.com/Rutiktorambe/online-complier/assets/114429614/8fe00ce0-db99-47b4-8faa-74fa4ad1c331)
